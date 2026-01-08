@@ -15,5 +15,5 @@ Zcoin TON (ZCOIN) — The Utility Token of Z Network.
 - Q2 2026: Создание пула ликвидности.
 - QX 202X: Интеграция в сервисы Z Network.
 ---
-WebSite: https://zcoin.to | Wallet: https://zcoin.ton | TonViewer: [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | TG Channel: https://t.me/zcoin_to
+WebSite: [https://zcoin.to](https://zcoin.to) | Wallet: [zcoin.ton](zcoin.ton) | TonViewer: [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | TG Channel: [https://t.me/zcoin_to](https://t.me/zcoin_to)
 
