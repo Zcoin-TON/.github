@@ -1,4 +1,4 @@
-![Logo ZCoin](https://zcoin-ton.github.io/website/logo-web.png)
+![Logo ZCoin](https://zcoin-ton.github.io/website/logo-web-bw.png)
 Zcoin TON (ZCOIN) — The Utility Token of Z Network.
 ---
 О проекте (About):
