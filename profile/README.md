@@ -27,10 +27,10 @@ Tokenomics (Токеномика):
 
 ### Roadmap (Дорожная карта):
 
-*   **Q1 2026:** Token Launch & Verification.
-*   **Q1 2026:** Liquidity Pools Created (STON.FI + DeDUST).
-*   **Q1 2026:** 100% LP Locked & Ownership Renounced.
-*   **Q1 2026:** ZCOIN Token Supply Locked.
+*   **Q1 2026:** Token Launch & Verification. ✔️
+*   **Q1 2026:** Liquidity Pools Created (STON.FI + DeDUST). ✔️
+*   **Q1 2026:** 100% LP Locked & Ownership Renounced. ✔️
+*   **Q1 2026:** ZCOIN Token Supply Locked. ✔️
 *   **Q2 2026:** Add new pool ZCOIN/USDT on STON.FI.
 *   **QX 202X:** Integration into Z Network services / NFT.
 
